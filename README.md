@@ -1,2 +1,2 @@
-# identifying_handwritten_digits_with_tensorflow_nn
+# identifying handwritten digits with tensorflow neural network
 identifying mnist handwritten digits with tensorflow neural network
